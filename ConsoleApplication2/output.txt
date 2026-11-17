@@ -1,0 +1,4 @@
+Filtered students:
+Average height: 185
+Average weight: 80
+Tallest: Sidorov Sidor (190)

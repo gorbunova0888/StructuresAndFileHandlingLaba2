@@ -1,0 +1,3 @@
+Ivanov;Ivan;180;75
+Petrov;Petr;165;60
+Sidorov;Sidor;190;85
